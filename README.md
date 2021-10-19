@@ -1,2 +1,1 @@
 # CowSay
-# CowSay
